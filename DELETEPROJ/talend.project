@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_mdXmEb5REeet_tFx82yimA" label="DeleteProj" description="" language="java" technicalLabel="DELETEPROJ" creationDate="2017-10-31T21:07:04.000+0530" author="_mdYNIL5REeet_tFx82yimA" productVersion="Talend Big Data Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/SunilPrabhakaraGitHub/DeleteTestRepo.git&quot;,&quot;login&quot;:&quot;sunil.prabhakara@gmail.com&quot;,&quot;passwd&quot;:&quot;oziM3/VX1Kb9T+j8HyEKKw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+  <TalendProperties:Project xmi:id="_mdXmEb5REeet_tFx82yimA" label="DeleteProj" description="" language="java" technicalLabel="DELETEPROJ" creationDate="2017-10-31T21:07:04.000+0530" author="_mdYNIL5REeet_tFx82yimA" productVersion="Talend Big Data Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/SunilPrabhakaraGitHub/DeleteTestRepo.git&quot;,&quot;login&quot;:&quot;sunil.prabhakara@gmail.com&quot;,&quot;passwd&quot;:&quot;oziM3/VX1Kb9T+j8HyEKKw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_oKX6cL5REeet_tFx82yimA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_oKX6cb5REeet_tFx82yimA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_oKX6cr5REeet_tFx82yimA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_oKJ4AL5REeet_tFx82yimA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_oKJ4Ab5REeet_tFx82yimA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_oKJ4Ar5REeet_tFx82yimA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_oIxX8L5REeet_tFx82yimA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_oIxX8b5REeet_tFx82yimA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_oIxX8r5REeet_tFx82yimA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
@@ -19,4 +25,7 @@
     <migrationTask xmi:id="_oIx_Bb5REeet_tFx82yimA" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_mdYNIL5REeet_tFx82yimA" login="de@hp.com" firstName="d" lastName="e" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_oKpAML5REeet_tFx82yimA" login="dev@hp.com" firstName="dev" lastName="d" type="DQ" additionnalData="{}">
+    <projectAuthorization href="../C:/Talend/6.2.1/Studio/studio/#/0"/>
+  </TalendProperties:User>
 </xmi:XMI>
